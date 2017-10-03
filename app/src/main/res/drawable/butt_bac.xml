@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/but_2" android:state_pressed="true"/>
+    <!-- focused state -->
+    <item android:drawable="@drawable/butt_3" android:state_focused="true"/>
+    <!-- default state -->
+    <item android:drawable="@drawable/but_1"/>
+</selector>
